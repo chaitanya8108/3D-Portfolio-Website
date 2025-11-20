@@ -15,7 +15,7 @@ const Projects = () => {
       description: 'A full-stack e-commerce solution with real-time inventory management and secure payment processing.',
       tech: ['React.js', 'Node.js', 'Framer Motion', 'Tailwind CSS'],
       gradient: 'from-purple-500 to-pink-500',
-      link: '#',
+      link: 'https://chgl1tch.vercel.app/',
     },
     {
       title: 'Expense Management System',
