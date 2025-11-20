@@ -95,7 +95,7 @@ const Hero = () => {
           {/* Animated subtitle with typewriter effect */}
           <motion.div variants={item} className="space-y-4">
             <motion.p
-              className="text-xl sm:text-3xl md:text-4xl text-gray-300 font-light"
+              className="text-lg sm:text-3xl md:text-4xl text-gray-300 font-light"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 0.5 }}
