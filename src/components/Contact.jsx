@@ -62,7 +62,7 @@ const Contact = () => {
       ),
       label: 'Phone',
       value: '+91 6006692875',
-      href: 'tel:+15551234567',
+      href: 'tel:+916006692875',
       color: 'pink',
     },
     {
